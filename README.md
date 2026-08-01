@@ -2,7 +2,7 @@
 
 🔧 Senior Data Engineer building enterprise data and AI platforms
 
-📝 I write [Pipeline to Insights](https://pipeline2insights.substack.com) — a data and AI publication reaching 10,000+ subscribers across 150+ countries, recognised as a **Substack Bestseller**.
+📝 I write [Pipeline to Insights](https://pipeline2insights.substack.com), a data and AI publication reaching 10,000+ subscribers across 150+ countries, recognised as a **Substack Bestseller**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/erfanhesami)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://pipeline2insights.substack.com)
