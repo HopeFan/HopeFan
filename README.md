@@ -19,11 +19,11 @@
 
 ---
 
-### 🎤 Speaking & Community
+### 🎤 Speaking and Community
 
-- Co-organiser, **DataEngBytes** — Oceania's largest independent data engineering conference (500+ attendees)
+- Co-organiser, **DataEngBytes**, Oceania's largest independent data engineering conference (500+ attendees)
 - Community Manager, **AI Camp Melbourne** (~12 events, 600–700+ professionals)
-- Speaker — *"Building an AI-Powered Data Catalogue"* (DataEngBytes 2026), *"OpenMetadata MCP Server & AI SDK"* (2026), *"Tackling Data Quality in the Age of AI"* (AI Camp Australia, 2024)
+- Speaker:*"Building an AI-Powered Data Catalogue"* (DataEngBytes 2026), *"OpenMetadata MCP Server & AI SDK"* (2026), *"Tackling Data Quality in the Age of AI"* (AI Camp Australia, 2024)
 - Finalist, Ally of the Year, Australian Professionals of Multicultural Communities (APOC) Awards, 2026, recognising leadership in advocacy and inclusion.
 
 ---
