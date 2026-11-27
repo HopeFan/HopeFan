@@ -1,6 +1,6 @@
 ## Hi there, I'm Erfan 👋
 
-🔧 Lead Data Engineer building enterprise data and AI platforms
+🔧 Lead Data and AI Engineer building enterprise data and AI platforms
 
 📝 I write [Pipeline to Insights](https://pipeline2insights.substack.com), a data and AI publication reaching 10,000+ subscribers across 150+ countries, recognised as a **Substack Bestseller**.
 
